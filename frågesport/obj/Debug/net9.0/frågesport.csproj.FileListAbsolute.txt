@@ -1,0 +1,14 @@
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\bin\Debug\net9.0\frågesport.exe
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\bin\Debug\net9.0\frågesport.deps.json
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\bin\Debug\net9.0\frågesport.runtimeconfig.json
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\bin\Debug\net9.0\frågesport.dll
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\bin\Debug\net9.0\frågesport.pdb
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\frågesport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\frågesport.AssemblyInfoInputs.cache
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\frågesport.AssemblyInfo.cs
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\frågesport.csproj.CoreCompileInputs.cache
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\frågesport.dll
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\refint\frågesport.dll
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\frågesport.pdb
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\frågesport.genruntimeconfig.cache
+C:\Users\vide.bultmark\Documents\frågesport\frågesport\obj\Debug\net9.0\ref\frågesport.dll
